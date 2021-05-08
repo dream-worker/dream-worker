@@ -1,6 +1,6 @@
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dream-worker&repo=github-readme-stats)](https://github.com/dream-worker/github-readme-stats)-->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dream-worker&repo=dream-worker)](https://github.com/dream-worker/dream-worker)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dream-worker&show_icons=true&icon_color=A0DBA9&text_color=00A070&bg_color=F4DE4E&hide_title=false" />
