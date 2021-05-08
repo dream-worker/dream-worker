@@ -1,9 +1,12 @@
 
+<img style='float:left' align="right" src="https://github-readme-stats.vercel.app/api?username=dream-worker&show_icons=true&icon_color=A0DBA9&text_color=00A070&bg_color=F4DE4E&hide_title=false" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dream-worker&repo=dream-worker)](https://github.com/dream-worker/dream-worker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dream-worker&repo=dream-worker)](https://github.com/dream-worker)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dream-worker&show_icons=true&icon_color=A0DBA9&text_color=00A070&bg_color=F4DE4E&hide_title=false" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-worker)](https://github.com/dream-worker)
+
+
 
 <!--
 **dream-worker/dream-worker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
