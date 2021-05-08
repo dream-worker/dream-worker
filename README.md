@@ -4,8 +4,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dream-worker&repo=dream-worker)](https://github.com/dream-worker)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dream-worker)](https://github.com/dream-worker)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
